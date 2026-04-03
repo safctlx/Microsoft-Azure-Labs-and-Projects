@@ -4,13 +4,11 @@ All notable changes to this project are documented here.
 
 ---
 
-## [VPN and SIEM Project]
+## [Azure Virtual Networking Lab changes overview.]
 
-## [1.0.0] - 2026-03-29
+## [1.0.0] - 2026-04-03
 
 ### Added
 
-- VPN configuration feature added.
-- Screenshot and gif added.
-- ELKStack Configuration added.
-- Simulate Brute Force Attack
+- Creation of Virtual network and virtual machines in azure.
+- Create a subnet.
