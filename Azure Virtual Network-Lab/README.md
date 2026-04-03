@@ -22,6 +22,8 @@ Before attempting this project, it is recommended to be familiar with:
 - Public and private IP address.
 - Internet and intranet.
 
-- <img width="1597" height="663" alt="image" src="https://github.com/user-attachments/assets/3d30ceed-f8ce-447e-a998-a4ec4c70f74d" />
+## Azure portal setup
+- Creation of virtual network
+<img width="1597" height="663" alt="image" src="https://github.com/user-attachments/assets/3d30ceed-f8ce-447e-a998-a4ec4c70f74d" />
 
 
